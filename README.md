@@ -1,2 +1,3 @@
 # Drex-md
-a simple wa bot
+a simple whatsapp bot
+Connect
